@@ -7,6 +7,7 @@
 #define code1   1
 #define code2   0
 
+///comment version 3 
 #if code1 == 1
 int main() {
 

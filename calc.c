@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "calc.h"
+///comment version 3 
 
-
- int global=10;
+ int global=99;
 
 
 static const int c_glob=77;
