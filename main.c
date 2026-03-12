@@ -1,7 +1,11 @@
 #include <stdio.h>
 #define DEBUG
-#define code1   0
-#define code2   1
+
+////comment 2 12-3-2026
+
+
+#define code1   1
+#define code2   0
 
 #if code1 == 1
 int main() {
